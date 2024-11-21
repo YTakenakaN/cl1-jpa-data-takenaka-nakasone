@@ -22,8 +22,4 @@ public class city {
     @JoinColumn(name = "CountryCode")
     private country CountryCode;
 
-
-
-
-
 }
